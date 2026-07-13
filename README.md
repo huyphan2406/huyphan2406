@@ -1,13 +1,12 @@
-# 👋 Hey, I'm Huy Phan
+# 👋 Hey, I'm Phan Gia Quoc Huy
 
 ### **Data Engineer** • **Pipeline Architect** • **Big Data Enthusiast**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3584E4&center=true&vCenter=true&random=false&width=700&lines=Building+Reliable%2C+Scalable+Data+Pipelines;Python+%7C+Spark+%7C+Airflow+%7C+Kafka;Open+Source+%2B+Cloud+Architecture+Enthusiast)](https://git.io/typing-svg)
 
-[![Website](https://img.shields.io/badge/🌐_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://YOUR-PORTFOLIO.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huyphande2406/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huyphan2406)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huyphanlop67@gmail.com)
 
 ---
 
@@ -28,9 +27,50 @@ I'm a **Data Engineer** with hands-on experience building end-to-end data pipeli
 
 ## 💼 What I Do
 
-| 🎯 Role & Focus | 🚀 Core Toolset |
-|---|---|
-| ```interface Engineer {   role: "Data Engineer";   focus: ["ETL", "Pipelines", "Orchestration"];   stack: ["Python", "Spark", "Airflow", "Kafka"]; }``` <br><br>**Building data platforms that don't break:**<br>🏗️ Designing ETL pipelines end-to-end<br>📊 Processing & modeling structured data at scale<br>⚙️ Orchestrating workflows with Airflow<br>☁️ Deploying to cloud environments (GCP/Azure) | ```stack = {   "languages": ["Python", "SQL"],   "processing": ["Apache Spark", "Kafka"],   "orchestration": ["Airflow"],   "infra": ["Docker", "Kubernetes", "Terraform"],   "cloud": ["GCP", "Azure"] }``` <br><br>**Core expertise:**<br>ETL pipeline design & data modeling<br>Workflow orchestration<br>SQL & data analytics<br>Distributed processing fundamentals |
+<table>
+<tr>
+<th>🎯 Role & Focus</th>
+<th>🚀 Core Toolset</th>
+</tr>
+<tr>
+<td valign="top">
+
+<pre>
+interface Engineer {
+  role: "Data Engineer";
+  focus: ["ETL", "Pipelines", "Orchestration"];
+  stack: ["Python", "Spark", "Airflow", "Kafka"];
+}
+</pre>
+
+**Building data platforms that don't break:**
+- 🏗️ Designing ETL pipelines end-to-end
+- 📊 Processing & modeling structured data at scale
+- ⚙️ Orchestrating workflows with Airflow
+- ☁️ Deploying to cloud environments (GCP/Azure)
+
+</td>
+<td valign="top">
+
+<pre>
+stack = {
+  "languages": ["Python", "SQL"],
+  "processing": ["Apache Spark", "Kafka"],
+  "orchestration": ["Airflow"],
+  "infra": ["Docker", "Kubernetes", "Terraform"],
+  "cloud": ["GCP", "Azure"]
+}
+</pre>
+
+**Core expertise:**
+- ETL pipeline design & data modeling
+- Workflow orchestration
+- SQL & data analytics
+- Distributed processing fundamentals
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -73,11 +113,9 @@ I'm a **Data Engineer** with hands-on experience building end-to-end data pipeli
 
 ---
 
-## 🎓 Education & Continuous Learning
+## 🎓 Education
 
-| Degree | Field | Institution | Achievement |
-|---|---|---|---|
-| 🎓 **[Your Degree]** | [Your Field] | [Your University] | [GPA / Honors] |
+🎓 **Information Technology** — University of Information Technology (UIT), Vietnam National University – Ho Chi Minh City (VNU-HCM)
 
 ---
 
@@ -99,30 +137,18 @@ I'm actively open to **collaborations**, **mentorship**, and **conversations** a
 
 ### 📞 Get in Touch
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huyphanlop67@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huyphande2406/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huyphan2406)
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://YOUR-PORTFOLIO.com)
-
-**Location:** [Your City, Country]
 
 ---
 
-### ⚡ Fun Facts About My Journey
+### ⚡ Fun Facts About Me
 
+- 🎵 When I'm not building pipelines, I'm listening to or playing music
 - 🐍 I believe great data products start with reliable data pipelines
 - 🌱 Always learning something new in the data + cloud space
 - ⚙️ I enjoy debugging DAGs almost as much as building them
-- 📈 [Add your own fun facts / milestones here]
-
-### 📈 By the Numbers
-
-```
-[XX]       Repositories on GitHub
-[XX]       Data Pipelines Built
-[XX]       Years of Experience
-[XX]       Technologies in My Stack
-```
 
 ---
 
