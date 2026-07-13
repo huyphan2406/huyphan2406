@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Phan Gia Quoc Huy
+# 👋 Hey, I'm Phan Gia Quốc Huy
 
 ### **Data Engineer** • **Pipeline Architect** • **Big Data Enthusiast**
 
@@ -29,44 +29,32 @@ I'm a **Data Engineer** with hands-on experience building end-to-end data pipeli
 
 <table>
 <tr>
-<th>🎯 Role & Focus</th>
-<th>🚀 Core Toolset</th>
+<th align="left">🎯 Role & Focus</th>
+<th align="left">🚀 Core Toolset</th>
 </tr>
 <tr>
-<td valign="top">
+<td valign="top" width="50%">
 
-<pre>
-interface Engineer {
-  role: "Data Engineer";
-  focus: ["ETL", "Pipelines", "Orchestration"];
-  stack: ["Python", "Spark", "Airflow", "Kafka"];
-}
-</pre>
+**Data Engineer specializing in ETL, pipelines, and orchestration**
 
-**Building data platforms that don't break:**
-- 🏗️ Designing ETL pipelines end-to-end
-- 📊 Processing & modeling structured data at scale
-- ⚙️ Orchestrating workflows with Airflow
-- ☁️ Deploying to cloud environments (GCP/Azure)
+<ul>
+<li>🏗️ Designing end-to-end data pipelines</li>
+<li>📊 Processing &amp; modeling structured data at scale</li>
+<li>⚙️ Orchestrating complex workflows</li>
+<li>☁️ Deploying robust cloud infrastructure</li>
+</ul>
 
 </td>
-<td valign="top">
+<td valign="top" width="50%">
 
-<pre>
-stack = {
-  "languages": ["Python", "SQL"],
-  "processing": ["Apache Spark", "Kafka"],
-  "orchestration": ["Airflow"],
-  "infra": ["Docker", "Kubernetes", "Terraform"],
-  "cloud": ["GCP", "Azure"]
-}
-</pre>
+**Core stack: Python, SQL, Spark, Kafka, Airflow, Docker, Kubernetes, Terraform, GCP, Azure**
 
-**Core expertise:**
-- ETL pipeline design & data modeling
-- Workflow orchestration
-- SQL & data analytics
-- Distributed processing fundamentals
+<ul>
+<li><b>Data Processing:</b> Apache Spark, Kafka</li>
+<li><b>Orchestration:</b> Apache Airflow</li>
+<li><b>Infrastructure (IaC):</b> Terraform, Docker, K8s</li>
+<li><b>Cloud:</b> Google Cloud Platform, Microsoft Azure</li>
+</ul>
 
 </td>
 </tr>
@@ -96,26 +84,15 @@ stack = {
 
 ---
 
-## 📊 GitHub Stats
+## 🎓 Education & Learning
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=huyphan2406&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true"/>
-  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=huyphan2406&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-</p>
+### 🏫 Information Technology
+**University of Information Technology (UIT) | VNU-HCM**
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=huyphan2406&theme=dark&hide_border=false"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=huyphan2406&theme=tokyo-night&hide_border=false"/>
-</p>
-
----
-
-## 🎓 Education
-
-🎓 **Information Technology** — University of Information Technology (UIT), Vietnam National University – Ho Chi Minh City (VNU-HCM)
+### 📚 Continuous Learning
+* **Big Data & Streaming:** Apache Spark (internals & performance tuning), Apache Kafka (real-time streaming)
+* **Infrastructure & DevOps:** Terraform (IaC), Docker (Containerization)
+* **Cloud Platforms:** GCP & Azure
 
 ---
 
@@ -146,18 +123,6 @@ I'm actively open to **collaborations**, **mentorship**, and **conversations** a
 ### ⚡ Fun Facts About Me
 
 - 🎵 When I'm not building pipelines, I'm listening to or playing music
-- 🐍 I believe great data products start with reliable data pipelines
+- 🐍 I can spend hours trying to optimize a single SQL query just to shave off a few seconds
 - 🌱 Always learning something new in the data + cloud space
 - ⚙️ I enjoy debugging DAGs almost as much as building them
-
----
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=huyphan2406&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="huyphan2406" />
-  </a>
-</p>
-
-<p align="center"><i>Made with care by Huy Phan — building data platforms one pipeline at a time.</i></p>
-
-<p align="center"><i>Last updated: July 2026</i></p>
