@@ -5,8 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3584E4&center=true&vCenter=true&random=false&width=700&lines=Building+Reliable%2C+Scalable+Data+Pipelines;Python+%7C+Spark+%7C+Airflow+%7C+Kafka;Open+Source+%2B+Cloud+Architecture+Enthusiast)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huyphande2406/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huyphan2406)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huyphanlop67@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/huy.fan.2406)
 
 ---
 
@@ -111,12 +111,6 @@ I'm actively open to **collaborations**, **mentorship**, and **conversations** a
 - Distributed data processing & streaming architectures
 - Cloud-native data platform design
 - Open source contributions in the data engineering space
-
-### 📞 Get in Touch
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huyphanlop67@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huyphande2406/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huyphan2406)
 
 ---
 
