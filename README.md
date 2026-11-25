@@ -17,12 +17,9 @@ My career goal is to start my journey as a **New Graduate Data Engineer in Japan
 
 > *"Good data products start with clean, reliable data pipelines."*
 
-### 🏆 Key Focus Areas
-
 - 🔭 **Currently building:** End-to-end batch & ETL/CDC pipelines (`vietnam-rainfall-data-pipeline`, CDC with Kafka & Spark)
 - 🌱 **Currently learning:** Big Data ecosystem tools (Apache Spark, Kafka, Trino) and Cloud Data Architectures
-- 👯 **Looking to collaborate on:** Data engineering projects, ETL orchestration & data quality workflows
-- 🤝 **Open to opportunities:** **New Graduate Data Engineer roles** (especially in Japan) & technical mentorship
+- 🤝 **Open to:** **New Graduate Data Engineer roles** (especially in Japan), collaborations & technical mentorship
 
 ---
 
@@ -31,54 +28,17 @@ My career goal is to start my journey as a **New Graduate Data Engineer in Japan
 ### 🌧️ Vietnam Daily Rainfall Data Pipeline
 - **Tech Stack:** `Python` · `Pandas` · `Apache Airflow` · `PostgreSQL` · `Docker` · `Streamlit`
 - **Description:** Built an automated ETL pipeline to collect, clean, and merge meteorological station and gridded weather data across Vietnam into a structured dataset (~18,000 records, 77 features). Used Airflow and Docker to orchestrate validation and preprocessing steps without temporal data leakage, and built a Streamlit dashboard to explore the data.
-- 🔗 **[View Repository](https://github.com/your-username/vietnam-rainfall-data-pipeline)**
+- 🔗 **[View Repository](https://github.com/huyphan2406/vietnam-rainfall-data-pipeline)**
 
 ### 🔄 Hybrid Batch & Real-Time CDC Data Pipeline
 - **Tech Stack:** `Apache Spark` · `Apache Kafka` · `Python` · `MySQL` · `MongoDB` · `Docker`
 - **Description:** Built a data pipeline combining batch processing and Change Data Capture (CDC). Set up a MySQL-to-Kafka stream to capture database changes in real time, alongside PySpark batch jobs for schema validation, deduplication, and storing processed data in MongoDB.
-- 🔗 **[View Repository](https://github.com/your-username/your-cdc-pipeline-repo)**
+- 🔗 **[View Repository](https://github.com/huyphan2406/ETL-Pipeline-Demo)**
 
 ### ✈️ Flight Delay Prediction & Preprocessing Pipeline
 - **Tech Stack:** `Python` · `Pandas` · `NumPy` · `scikit-learn` · `SQL`
 - **Description:** Developed a preprocessing and forecasting pipeline for flight delay time-series data using time-based data splitting to prevent leakage. Applied a two-stage target transformation (binary classification combined with log-transformed regression for 15–300 minute delays) to improve prediction stability.
-- 🔗 **[View Repository](https://github.com/your-username/your-flight-delay-repo)**
-
----
-
-## 💼 What I Do
-
-<table>
-<tr>
-<th align="left">🎯 Role & Focus</th>
-<th align="left">🚀 Core Toolset</th>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-**Aspiring Data Engineer focused on ETL, data quality, and orchestration**
-
-<ul>
-<li>🏗️ Building end-to-end batch &amp; CDC data pipelines</li>
-<li>🧹 Cleaning, validating &amp; modeling structured datasets</li>
-<li>⚙️ Orchestrating automated workflows with Airflow</li>
-<li>🐳 Containerizing reproducible environments with Docker</li>
-</ul>
-
-</td>
-<td valign="top" width="50%">
-
-**Core stack: C++, SQL, Python, Spark, Kafka, Airflow, PostgreSQL, Docker**
-
-<ul>
-<li><b>Languages:</b> C++, SQL, Python (Pandas, NumPy), Bash</li>
-<li><b>Processing &amp; Querying:</b> Apache Spark, Kafka, Trino</li>
-<li><b>Orchestration &amp; Infra:</b> Airflow, Docker, Linux</li>
-<li><b>Databases &amp; Storage:</b> PostgreSQL, MySQL, MongoDB, MinIO</li>
-</ul>
-
-</td>
-</tr>
-</table>
+- 🔗 **[View Repository](https://github.com/hunf299/DS108_AeroDelay)**
 
 ---
 
